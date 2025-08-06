@@ -19,6 +19,6 @@ Attackers employ social engineering techniques and lookalike URLs.
  Task Status: Finalised and prepared for submission.
 
  FILES HERE:
- 1.phishing..jpg
+ 1.PHISHING EMAIL.jpg
  2.readme.md
  3.analysis.txt

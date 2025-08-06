@@ -1,0 +1,24 @@
+Phishing Email Analysis Report
+Email Overview
+Sender Name : service@intl.paypal.com
+Actual Email Address: service.epaiypal@outlook.com
+Subject: Response Required
+Date: 1/29/2016
+
+ Phishing Indicators Found
+
+ Mailbox & Sender Analysis
+Spoofed sender address: Appears to be from PayPal, but actually from a free Outlook address.
+Misspelled domain: epaiypal instead of paypal — a typosquatting trick.
+
+ Urgency & Fear Language
+"Response required" and "unusual login activity" are designed to scare the recipient.
+
+ Suspicious Links
+Link text says “log in” or “resolution center”, but likely redirects to a fake login page (we can’t verify here but that’s the pattern).
+
+ Grammar & Format Issues
+Slightly off formatting. No personalization like your name.
+
+ Final Verdict
+This is a phishing email that attempts to steal login information by pretending to be from PayPal. It uses spoofed sender names, urgency tactics, and likely fake links.
